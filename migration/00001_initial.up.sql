@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS products (id INTEGER, name VARCHAR(255));
